@@ -1,2 +1,2 @@
-hello world
-안녕하세요.
+"hello world"
+"안녕"
